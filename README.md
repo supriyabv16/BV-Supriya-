@@ -1,11 +1,11 @@
-#BV Supriya
+BV Supriya
 
-#🎓 Academic Details
--2nd year student
--Electronics and Telecommunication Engineering  
+🎓 Academic Details
+- 2nd year student
+- Electronics and Telecommunication Engineering  
 
 
-#💻 Current Tech Stack
+💻 Current Tech Stack
 - C Programming  
 - Microcontrollers (8051)  
 - Basics of Python  
@@ -14,5 +14,5 @@
 - Xilinx
 - Matlab
 
-#Linkedin profile
+Linkedin profile
 https://www.linkedin.com/in/supriya-bv-961619294/
