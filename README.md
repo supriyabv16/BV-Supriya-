@@ -2,7 +2,8 @@ BV Supriya
 
 🎓 Academic Details
 - 2nd year student
-- Electronics and Telecommunication Engineering  
+- Electronics and Telecommunication Engineering
+- Sir MVIT 
 
 
 💻 Current Tech Stack
