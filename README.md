@@ -15,4 +15,4 @@ BV Supriya
 - Matlab
 
 Linkedin profile
-https://www.linkedin.com/in/supriya-bv-961619294/
+- https://www.linkedin.com/in/supriya-bv-961619294/
